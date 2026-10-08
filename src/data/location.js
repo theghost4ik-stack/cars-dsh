@@ -1,0 +1,17 @@
+export const cities = [
+  { value: 'tashkent', label: 'Tashkent' },
+  { value: 'tashkent-region', label: 'Tashkent Region' },
+  { value: 'samarkand', label: 'Samarkand' },
+  { value: 'bukhara', label: 'Bukhara' },
+  { value: 'andijan', label: 'Andijan' },
+  { value: 'fergana', label: 'Fergana' },
+  { value: 'namangan', label: 'Namangan' },
+  { value: 'kashkadarya', label: 'Kashkadarya' },
+  { value: 'surkhandarya', label: 'Surkhandarya' },
+  { value: 'jizzakh', label: 'Jizzakh' },
+  { value: 'syrdarya', label: 'Syrdarya' },
+  { value: 'navoi', label: 'Navoi' },
+  { value: 'khorezm', label: 'Khorezm' },
+  { value: 'karakalpakstan', label: 'Karakalpakstan' },
+  { value: 'other', label: 'Other' },
+]
